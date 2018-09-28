@@ -1,0 +1,11 @@
+/Users/osmarenrique/Projects/FactorialN/FactorialN/obj/Debug/netcoreapp2.0/FactorialN.csprojResolveAssemblyReference.cache
+/Users/osmarenrique/Projects/FactorialN/FactorialN/obj/Debug/netcoreapp2.0/FactorialN.csproj.CoreCompileInputs.cache
+/Users/osmarenrique/Projects/FactorialN/FactorialN/obj/Debug/netcoreapp2.0/FactorialN.AssemblyInfoInputs.cache
+/Users/osmarenrique/Projects/FactorialN/FactorialN/obj/Debug/netcoreapp2.0/FactorialN.AssemblyInfo.cs
+/Users/osmarenrique/Projects/FactorialN/FactorialN/bin/Debug/netcoreapp2.0/FactorialN.deps.json
+/Users/osmarenrique/Projects/FactorialN/FactorialN/bin/Debug/netcoreapp2.0/FactorialN.runtimeconfig.json
+/Users/osmarenrique/Projects/FactorialN/FactorialN/bin/Debug/netcoreapp2.0/FactorialN.runtimeconfig.dev.json
+/Users/osmarenrique/Projects/FactorialN/FactorialN/bin/Debug/netcoreapp2.0/FactorialN.dll
+/Users/osmarenrique/Projects/FactorialN/FactorialN/bin/Debug/netcoreapp2.0/FactorialN.pdb
+/Users/osmarenrique/Projects/FactorialN/FactorialN/obj/Debug/netcoreapp2.0/FactorialN.dll
+/Users/osmarenrique/Projects/FactorialN/FactorialN/obj/Debug/netcoreapp2.0/FactorialN.pdb
